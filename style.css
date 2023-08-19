@@ -1,0 +1,17 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#textBox{
+    padding: 10px 10px;
+    outline: none;
+   
+    border-radius: 5px;
+}
+#deleteBtn{
+    padding: 10px 20px;
+    border-radius: 5px;
+}
